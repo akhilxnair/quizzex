@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/quizzex/static/js/main.e3be5812.chunk.js",
+    "main.js.map": "/quizzex/static/js/main.e3be5812.chunk.js.map",
+    "runtime-main.js": "/quizzex/static/js/runtime-main.b233f773.js",
+    "runtime-main.js.map": "/quizzex/static/js/runtime-main.b233f773.js.map",
+    "static/js/2.cffb2a03.chunk.js": "/quizzex/static/js/2.cffb2a03.chunk.js",
+    "static/js/2.cffb2a03.chunk.js.map": "/quizzex/static/js/2.cffb2a03.chunk.js.map",
+    "index.html": "/quizzex/index.html",
+    "precache-manifest.fc484c3676bef15507eeaf9176449ea4.js": "/quizzex/precache-manifest.fc484c3676bef15507eeaf9176449ea4.js",
+    "service-worker.js": "/quizzex/service-worker.js",
+    "static/js/2.cffb2a03.chunk.js.LICENSE.txt": "/quizzex/static/js/2.cffb2a03.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan-unsplash.jpg": "/quizzex/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b233f773.js",
+    "static/js/2.cffb2a03.chunk.js",
+    "static/js/main.e3be5812.chunk.js"
+  ]
+}
